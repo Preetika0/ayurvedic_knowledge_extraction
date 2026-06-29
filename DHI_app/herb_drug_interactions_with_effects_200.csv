@@ -1,0 +1,201 @@
+Herb,Compound,Drug,Drug_Class,Target_Disease,Interaction_Effect,Mechanism,Risk,Severity_Score
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2
+Pippali,Piperine,Metformin,Antidiabetic,Type 2 Diabetes,Increased bioavailability,CYP450 inhibition,Medium,2
+Guduchi,Berberine,Insulin,Antidiabetic,Diabetes,Enhanced glucose lowering,Pharmacodynamic synergy,High,3
+Neem,Azadirachtin,Warfarin,Anticoagulant,Thrombosis,Increased bleeding risk,Antiplatelet activity,High,3
+Ashwagandha,Withaferin A,Alprazolam,Anxiolytic,Anxiety,Enhanced sedation,CNS depression synergy,Medium,2
+Shunthi,6-Gingerol,Aspirin,Antiplatelet,Cardiovascular Disease,Increased bleeding risk,Platelet inhibition,High,3
+Amalaki,Gallic Acid,Metformin,Antidiabetic,Type 2 Diabetes,Synergistic glucose control,Antioxidant synergy,Medium,2
+Yashtimadhu,Glycyrrhizin,Furosemide,Diuretic,Edema,Potassium imbalance,Electrolyte modulation,High,3
+Haritaki,Chebulagic Acid,Paracetamol,Analgesic,Pain,Altered absorption,GI motility effects,Low,1
+Punarnava,Boeravinone B,Amlodipine,Antihypertensive,Hypertension,Enhanced BP lowering,Diuretic synergy,Medium,2
+Gokshura,Protodioscin,Losartan,Antihypertensive,Hypertension,Additive hypotension,Pharmacodynamic synergy,Medium,2

@@ -1,0 +1,540 @@
+Herb,Alternative_Herb,Common_Disease_Count,Common_Action_Count,Common_Dosha_Count,Common_Compound_Count,Recommendation_Score
+Bitter medicinal substances,Bitter substances,4,2,3,0,2.8
+Astringent medicinal substances,Astringent substances,2,4,3,0,2.6
+Pippali,Shunthi,2,3,1,0,1.9
+Salty medicinal substances,Salty substances,1,2,2,0,1.4
+Shunthi,Citraka,1,2,1,0,1.2
+Guduchi,Bitter medicinal substances,1,1,2,0,1.1
+Pungent medicinal substances,Pungent substances,1,1,2,0,1.1
+Guduchi,Bitter substances,1,1,2,0,1.1
+Sweet medicinal substances,Astringent medicinal substances,1,0,3,0,1.0
+Sweet medicinal substances,Milk,0,2,2,0,1.0
+Pippali,Sour substances,1,2,0,0,1.0
+Sweet medicinal substances,Astringent substances,1,0,3,0,1.0
+Sweet medicinal substances,Sweet substances,1,1,1,0,0.9
+Ghee,Milk,1,1,1,0,0.9
+Astringent medicinal substances,Salty substances,1,0,2,0,0.8
+Salty medicinal substances,Bitter medicinal substances,1,0,2,0,0.8
+Sweet medicinal substances,Pungent medicinal substances,1,0,2,0,0.8
+Salty medicinal substances,Bitter substances,1,0,2,0,0.8
+Bitter medicinal substances,Pungent substances,1,0,2,0,0.8
+Shunthi,Warm water,1,0,2,0,0.8
+Pungent substances,Bitter substances,1,0,2,0,0.8
+Pippali,Arka,0,2,1,0,0.8
+Sweet medicinal substances,Salty medicinal substances,1,0,2,0,0.8
+Yavagu,Milk,1,1,0,0,0.7
+Pippali,Sour medicinal substances,1,1,0,0,0.7
+Pungent substances,Astringent substances,0,1,2,0,0.7
+Kapittha,Musta,1,1,0,0,0.7
+Yavagu,Ghee,1,1,0,0,0.7
+Astringent medicinal substances,Pungent substances,0,1,2,0,0.7
+Shunthi,Pungent medicinal substances,0,1,2,0,0.7
+Guduchi,Aguru,1,0,1,0,0.6
+Shunthi,Sour substances,0,2,0,0,0.6
+Bitter medicinal substances,Astringent medicinal substances,0,0,3,0,0.6
+Bitter medicinal substances,Astringent substances,0,0,3,0,0.6
+Astringent medicinal substances,Bitter substances,0,0,3,0,0.6
+Astringent medicinal substances,Triphala,0,0,3,0,0.6
+Shunthi,Ghee,1,0,1,0,0.6
+Shunthi,Food,1,0,1,0,0.6
+Sour vipaka substances,Sour substances,1,0,1,0,0.6
+Bitter medicinal substances,Triphala,0,0,3,0,0.6
+Shunthi,Milk,1,0,1,0,0.6
+Shunthi,Heavy food,1,0,1,0,0.6
+Triphala,Astringent substances,0,0,3,0,0.6
+Pippali,Warm water,1,0,1,0,0.6
+Triphala,Bitter substances,0,0,3,0,0.6
+Pippali,Food,1,0,1,0,0.6
+Haritaki,Astringent substances,1,0,1,0,0.6
+Food,Heavy food,1,0,1,0,0.6
+Pippali,Heavy food,1,0,1,0,0.6
+Guduchi,Pungent medicinal substances,1,0,1,0,0.6
+Guduchi,Pungent substances,1,0,1,0,0.6
+Bitter medicinal substances,Sour vipaka substances,1,0,1,0,0.6
+Sweet medicinal substances,Triphala,0,0,3,0,0.6
+Sweet medicinal substances,Bitter substances,0,0,3,0,0.6
+Salty medicinal substances,Pungent medicinal substances,1,0,1,0,0.6
+Sweet medicinal substances,Bitter medicinal substances,0,0,3,0,0.6
+Warm water,Milk,1,0,1,0,0.6
+Bitter substances,Astringent substances,0,0,3,0,0.6
+Warm water,Heavy food,1,0,1,0,0.6
+Warm water,Food,1,0,1,0,0.6
+Haritaki,Shunthi,1,0,1,0,0.6
+Warm water,Ghee,1,0,1,0,0.6
+Aguru,Sweet medicinal substances,1,0,1,0,0.6
+Bitter medicinal substances,Sour substances,1,0,1,0,0.6
+Shunthi,Arka,0,1,1,0,0.5
+Shunthi,Aguru,0,1,1,0,0.5
+Pippali,Citraka,0,1,1,0,0.5
+Pippali,Aguru,0,1,1,0,0.5
+Vidanga,Pungent substances,0,1,1,0,0.5
+Amalaki,Yashtimadhu,0,1,1,0,0.5
+Bala,Ghee,0,1,1,0,0.5
+Arka,Bitter substances,0,1,1,0,0.5
+Pungent vipaka substances,Pungent substances,0,1,1,0,0.5
+Amalaki,Sour vipaka substances,0,1,1,0,0.5
+Sweet medicinal substances,Ghee,0,1,1,0,0.5
+Sour medicinal substances,Sour substances,0,1,1,0,0.5
+Arka,Bitter medicinal substances,0,1,1,0,0.5
+Sweet medicinal substances,Ashwagandha,0,1,1,0,0.5
+Aguru,Arka,0,1,1,0,0.5
+Sweet medicinal substances,Sweet vipaka substances,0,1,1,0,0.5
+Shunthi,Salty substances,0,1,1,0,0.5
+Pungent vipaka substances,Astringent substances,0,1,1,0,0.5
+Guduchi,Arka,0,1,1,0,0.5
+Shunthi,Salty medicinal substances,0,1,1,0,0.5
+Astringent medicinal substances,Pungent vipaka substances,0,1,1,0,0.5
+Pippali,Pungent medicinal substances,0,1,1,0,0.5
+Ashwagandha,Milk,0,1,1,0,0.5
+Triphala,Pungent substances,0,0,2,0,0.4
+Musta,Astringent substances,0,0,2,0,0.4
+Shunthi,Triphala,0,0,2,0,0.4
+Neem,Astringent substances,0,0,2,0,0.4
+Musta,Bitter substances,0,0,2,0,0.4
+Neem,Bitter substances,0,0,2,0,0.4
+Neem,Triphala,0,0,2,0,0.4
+Shunthi,Sweet medicinal substances,0,0,2,0,0.4
+Triphala,Milk,0,0,2,0,0.4
+Gokshura,Astringent substances,0,0,2,0,0.4
+Gokshura,Bitter substances,0,0,2,0,0.4
+Gokshura,Salty substances,0,0,2,0,0.4
+Gokshura,Triphala,0,0,2,0,0.4
+Yashtimadhu,Milk,0,0,2,0,0.4
+Yashtimadhu,Astringent substances,0,0,2,0,0.4
+Yashtimadhu,Bitter substances,0,0,2,0,0.4
+Pippali,Milk,1,0,0,0,0.4
+Triphala,Warm water,0,0,2,0,0.4
+Ghee,Food,1,0,0,0,0.4
+Salty substances,Astringent substances,0,0,2,0,0.4
+Milk,Heavy food,1,0,0,0,0.4
+Yavagu,Heavy food,1,0,0,0,0.4
+Yavagu,Food,1,0,0,0,0.4
+Milk,Food,1,0,0,0,0.4
+Ghee,Heavy food,1,0,0,0,0.4
+Pungent substances,Warm water,0,0,2,0,0.4
+Gokshura,Milk,0,0,2,0,0.4
+Triphala,Salty substances,0,0,2,0,0.4
+Salty substances,Bitter substances,0,0,2,0,0.4
+Salty substances,Milk,0,0,2,0,0.4
+Guduchi,Triphala,0,0,2,0,0.4
+Musta,Triphala,0,0,2,0,0.4
+Musta,Neem,0,0,2,0,0.4
+Bitter medicinal substances,Gokshura,0,0,2,0,0.4
+Bitter medicinal substances,Neem,0,0,2,0,0.4
+Bitter medicinal substances,Yashtimadhu,0,0,2,0,0.4
+Bitter medicinal substances,Musta,0,0,2,0,0.4
+Pungent medicinal substances,Warm water,0,0,2,0,0.4
+Bitter medicinal substances,Warm water,0,0,2,0,0.4
+Bitter medicinal substances,Milk,0,0,2,0,0.4
+Pungent medicinal substances,Astringent substances,0,0,2,0,0.4
+Guduchi,Astringent medicinal substances,0,0,2,0,0.4
+Shunthi,Pungent substances,0,0,2,0,0.4
+Bitter medicinal substances,Salty substances,0,0,2,0,0.4
+Shunthi,Astringent substances,0,0,2,0,0.4
+Shunthi,Bitter substances,0,0,2,0,0.4
+Guduchi,Sweet medicinal substances,0,0,2,0,0.4
+Yashtimadhu,Gokshura,0,0,2,0,0.4
+Pippali,Yavagu,1,0,0,0,0.4
+Shunthi,Yavagu,1,0,0,0,0.4
+Astringent medicinal substances,Milk,0,0,2,0,0.4
+Astringent medicinal substances,Warm water,0,0,2,0,0.4
+Pippali,Ghee,1,0,0,0,0.4
+Yashtimadhu,Triphala,0,0,2,0,0.4
+Yashtimadhu,Salty substances,0,0,2,0,0.4
+Shunthi,Bitter medicinal substances,0,0,2,0,0.4
+Guduchi,Danti,0,0,2,0,0.4
+Shunthi,Astringent medicinal substances,0,0,2,0,0.4
+Astringent medicinal substances,Musta,0,0,2,0,0.4
+Astringent medicinal substances,Neem,0,0,2,0,0.4
+Astringent medicinal substances,Yashtimadhu,0,0,2,0,0.4
+Astringent medicinal substances,Gokshura,0,0,2,0,0.4
+Guduchi,Musta,0,0,2,0,0.4
+Guduchi,Neem,0,0,2,0,0.4
+Guduchi,Ghee,1,0,0,0,0.4
+Sweet medicinal substances,Warm water,0,0,2,0,0.4
+Salty medicinal substances,Astringent medicinal substances,0,0,2,0,0.4
+Danti,Neem,0,0,2,0,0.4
+Danti,Musta,0,0,2,0,0.4
+Danti,Triphala,0,0,2,0,0.4
+Sweet medicinal substances,Pungent substances,0,0,2,0,0.4
+Sweet medicinal substances,Salty substances,0,0,2,0,0.4
+Guduchi,Astringent substances,0,0,2,0,0.4
+Salty medicinal substances,Gokshura,0,0,2,0,0.4
+Salty medicinal substances,Yashtimadhu,0,0,2,0,0.4
+Pungent medicinal substances,Bitter substances,0,0,2,0,0.4
+Salty medicinal substances,Triphala,0,0,2,0,0.4
+Salty medicinal substances,Astringent substances,0,0,2,0,0.4
+Salty medicinal substances,Milk,0,0,2,0,0.4
+Pungent medicinal substances,Bitter medicinal substances,0,0,2,0,0.4
+Pungent medicinal substances,Astringent medicinal substances,0,0,2,0,0.4
+Pungent medicinal substances,Triphala,0,0,2,0,0.4
+Sweet medicinal substances,Yashtimadhu,0,0,2,0,0.4
+Sweet medicinal substances,Neem,0,0,2,0,0.4
+Sweet medicinal substances,Gokshura,0,0,2,0,0.4
+Sweet medicinal substances,Musta,0,0,2,0,0.4
+Danti,Sweet medicinal substances,0,0,2,0,0.4
+Danti,Bitter medicinal substances,0,0,2,0,0.4
+Danti,Astringent medicinal substances,0,0,2,0,0.4
+Danti,Bitter substances,0,0,2,0,0.4
+Haritaki,Citraka,1,0,0,0,0.4
+Danti,Astringent substances,0,0,2,0,0.4
+Warm water,Yavagu,1,0,0,0,0.4
+Bitter substances,Warm water,0,0,2,0,0.4
+Bitter substances,Milk,0,0,2,0,0.4
+Astringent substances,Warm water,0,0,2,0,0.4
+Astringent substances,Milk,0,0,2,0,0.4
+Sweet vipaka substances,Milk,0,1,0,0,0.3
+Haritaki,Musta,0,1,0,0,0.3
+Sweet substances,Milk,0,1,0,0,0.3
+Sweet vipaka substances,Ashwagandha,0,1,0,0,0.3
+Sweet substances,Ghee,0,1,0,0,0.3
+Sweet substances,Yavagu,0,1,0,0,0.3
+Shunthi,Sour medicinal substances,0,1,0,0,0.3
+Sour medicinal substances,Pungent medicinal substances,0,1,0,0,0.3
+Citraka,Sour substances,0,1,0,0,0.3
+Ashwagandha,Sweet substances,0,1,0,0,0.3
+Pungent medicinal substances,Sour substances,0,1,0,0,0.3
+Sweet medicinal substances,Yavagu,0,1,0,0,0.3
+Musta,Salty substances,0,0,1,0,0.2
+Musta,Pungent substances,0,0,1,0,0.2
+Musta,Warm water,0,0,1,0,0.2
+Musta,Milk,0,0,1,0,0.2
+Shunthi,Musta,0,0,1,0,0.2
+Musta,Sour substances,0,0,1,0,0.2
+Shunthi,Neem,0,0,1,0,0.2
+Shunthi,Vidanga,0,0,1,0,0.2
+Shunthi,Ashwagandha,0,0,1,0,0.2
+Shunthi,Gokshura,0,0,1,0,0.2
+Shunthi,Bala,0,0,1,0,0.2
+Shunthi,Punarnava,0,0,1,0,0.2
+Pippali,Pungent substances,0,0,1,0,0.2
+Pippali,Bitter substances,0,0,1,0,0.2
+Pippali,Astringent substances,0,0,1,0,0.2
+Musta,Heavy food,0,0,1,0,0.2
+Shunthi,Yashtimadhu,0,0,1,0,0.2
+Vidanga,Warm water,0,0,1,0,0.2
+Vidanga,Food,0,0,1,0,0.2
+Vidanga,Heavy food,0,0,1,0,0.2
+Ashwagandha,Gokshura,0,0,1,0,0.2
+Ashwagandha,Triphala,0,0,1,0,0.2
+Ashwagandha,Bala,0,0,1,0,0.2
+Yashtimadhu,Pungent substances,0,0,1,0,0.2
+Yashtimadhu,Warm water,0,0,1,0,0.2
+Yashtimadhu,Ghee,0,0,1,0,0.2
+Musta,Food,0,0,1,0,0.2
+Shunthi,Guduchi,0,0,1,0,0.2
+Shunthi,Danti,0,0,1,0,0.2
+Pippali,Danti,0,0,1,0,0.2
+Pippali,Sweet medicinal substances,0,0,1,0,0.2
+Neem,Gokshura,0,0,1,0,0.2
+Neem,Punarnava,0,0,1,0,0.2
+Neem,Sweet substances,0,0,1,0,0.2
+Neem,Sour substances,0,0,1,0,0.2
+Neem,Salty substances,0,0,1,0,0.2
+Neem,Pungent substances,0,0,1,0,0.2
+Neem,Vidanga,0,0,1,0,0.2
+Pungent vipaka substances,Triphala,0,0,1,0,0.2
+Pungent vipaka substances,Bala,0,0,1,0,0.2
+Pungent vipaka substances,Salty substances,0,0,1,0,0.2
+Pungent vipaka substances,Bitter substances,0,0,1,0,0.2
+Pungent vipaka substances,Warm water,0,0,1,0,0.2
+Pungent vipaka substances,Ghee,0,0,1,0,0.2
+Pungent vipaka substances,Milk,0,0,1,0,0.2
+Sour vipaka substances,Musta,0,0,1,0,0.2
+Astringent medicinal substances,Ghee,0,0,1,0,0.2
+Yashtimadhu,Ashwagandha,0,0,1,0,0.2
+Astringent medicinal substances,Heavy food,0,0,1,0,0.2
+Sweet vipaka substances,Musta,0,0,1,0,0.2
+Sweet vipaka substances,Neem,0,0,1,0,0.2
+Guduchi,Citraka,0,0,1,0,0.2
+Shunthi,Sweet vipaka substances,0,0,1,0,0.2
+Shunthi,Pungent vipaka substances,0,0,1,0,0.2
+Sweet vipaka substances,Vidanga,0,0,1,0,0.2
+Sweet vipaka substances,Triphala,0,0,1,0,0.2
+Sweet vipaka substances,Punarnava,0,0,1,0,0.2
+Sweet vipaka substances,Sweet substances,0,0,1,0,0.2
+Astringent medicinal substances,Food,0,0,1,0,0.2
+Yashtimadhu,Neem,0,0,1,0,0.2
+Vidanga,Astringent substances,0,0,1,0,0.2
+Yashtimadhu,Bala,0,0,1,0,0.2
+Yashtimadhu,Sour substances,0,0,1,0,0.2
+Sour vipaka substances,Yashtimadhu,0,0,1,0,0.2
+Sour vipaka substances,Neem,0,0,1,0,0.2
+Sour vipaka substances,Gokshura,0,0,1,0,0.2
+Sour vipaka substances,Triphala,0,0,1,0,0.2
+Sour vipaka substances,Salty substances,0,0,1,0,0.2
+Sour vipaka substances,Bitter substances,0,0,1,0,0.2
+Pungent vipaka substances,Gokshura,0,0,1,0,0.2
+Sour vipaka substances,Milk,0,0,1,0,0.2
+Musta,Yashtimadhu,0,0,1,0,0.2
+Musta,Vidanga,0,0,1,0,0.2
+Musta,Gokshura,0,0,1,0,0.2
+Musta,Punarnava,0,0,1,0,0.2
+Musta,Sweet substances,0,0,1,0,0.2
+Sweet vipaka substances,Food,0,0,1,0,0.2
+Sweet vipaka substances,Heavy food,0,0,1,0,0.2
+Pungent vipaka substances,Yashtimadhu,0,0,1,0,0.2
+Pungent vipaka substances,Ashwagandha,0,0,1,0,0.2
+Sour vipaka substances,Astringent substances,0,0,1,0,0.2
+Amalaki,Musta,0,0,1,0,0.2
+Sweet substances,Warm water,0,0,1,0,0.2
+Sweet substances,Food,0,0,1,0,0.2
+Sweet substances,Heavy food,0,0,1,0,0.2
+Sour substances,Salty substances,0,0,1,0,0.2
+Salty substances,Ghee,0,0,1,0,0.2
+Bala,Pungent substances,0,0,1,0,0.2
+Bala,Bitter substances,0,0,1,0,0.2
+Bala,Astringent substances,0,0,1,0,0.2
+Vidanga,Punarnava,0,0,1,0,0.2
+Bala,Milk,0,0,1,0,0.2
+Punarnava,Sweet substances,0,0,1,0,0.2
+Pippali,Bitter medicinal substances,0,0,1,0,0.2
+Pippali,Astringent medicinal substances,0,0,1,0,0.2
+Pippali,Sweet vipaka substances,0,0,1,0,0.2
+Pippali,Musta,0,0,1,0,0.2
+Pippali,Neem,0,0,1,0,0.2
+Pippali,Vidanga,0,0,1,0,0.2
+Pippali,Triphala,0,0,1,0,0.2
+Pippali,Punarnava,0,0,1,0,0.2
+Bala,Warm water,0,0,1,0,0.2
+Haritaki,Sweet medicinal substances,0,0,1,0,0.2
+Haritaki,Salty medicinal substances,0,0,1,0,0.2
+Haritaki,Pungent medicinal substances,0,0,1,0,0.2
+Haritaki,Bitter medicinal substances,0,0,1,0,0.2
+Haritaki,Astringent medicinal substances,0,0,1,0,0.2
+Astringent substances,Food,0,0,1,0,0.2
+Astringent substances,Heavy food,0,0,1,0,0.2
+Bitter substances,Ghee,0,0,1,0,0.2
+Bitter substances,Food,0,0,1,0,0.2
+Bitter substances,Heavy food,0,0,1,0,0.2
+Amalaki,Bitter substances,0,0,1,0,0.2
+Amalaki,Astringent medicinal substances,0,0,1,0,0.2
+Amalaki,Bitter medicinal substances,0,0,1,0,0.2
+Amalaki,Salty medicinal substances,0,0,1,0,0.2
+Haritaki,Salty substances,0,0,1,0,0.2
+Haritaki,Pungent substances,0,0,1,0,0.2
+Amalaki,Neem,0,0,1,0,0.2
+Amalaki,Gokshura,0,0,1,0,0.2
+Amalaki,Triphala,0,0,1,0,0.2
+Amalaki,Sour substances,0,0,1,0,0.2
+Amalaki,Salty substances,0,0,1,0,0.2
+Astringent substances,Ghee,0,0,1,0,0.2
+Triphala,Heavy food,0,0,1,0,0.2
+Bala,Salty substances,0,0,1,0,0.2
+Ashwagandha,Salty substances,0,0,1,0,0.2
+Ashwagandha,Pungent substances,0,0,1,0,0.2
+Ashwagandha,Bitter substances,0,0,1,0,0.2
+Ashwagandha,Astringent substances,0,0,1,0,0.2
+Ashwagandha,Warm water,0,0,1,0,0.2
+Ashwagandha,Ghee,0,0,1,0,0.2
+Gokshura,Bala,0,0,1,0,0.2
+Pippali,Sweet substances,0,0,1,0,0.2
+Gokshura,Pungent substances,0,0,1,0,0.2
+Gokshura,Warm water,0,0,1,0,0.2
+Neem,Warm water,0,0,1,0,0.2
+Neem,Milk,0,0,1,0,0.2
+Neem,Food,0,0,1,0,0.2
+Neem,Heavy food,0,0,1,0,0.2
+Vidanga,Triphala,0,0,1,0,0.2
+Sweet vipaka substances,Pungent substances,0,0,1,0,0.2
+Vidanga,Sweet substances,0,0,1,0,0.2
+Vidanga,Bitter substances,0,0,1,0,0.2
+Gokshura,Sour substances,0,0,1,0,0.2
+Haritaki,Pungent vipaka substances,0,0,1,0,0.2
+Haritaki,Yashtimadhu,0,0,1,0,0.2
+Haritaki,Ashwagandha,0,0,1,0,0.2
+Haritaki,Gokshura,0,0,1,0,0.2
+Haritaki,Triphala,0,0,1,0,0.2
+Haritaki,Bala,0,0,1,0,0.2
+Punarnava,Pungent substances,0,0,1,0,0.2
+Punarnava,Bitter substances,0,0,1,0,0.2
+Punarnava,Astringent substances,0,0,1,0,0.2
+Punarnava,Warm water,0,0,1,0,0.2
+Triphala,Food,0,0,1,0,0.2
+Punarnava,Heavy food,0,0,1,0,0.2
+Sweet substances,Pungent substances,0,0,1,0,0.2
+Sweet substances,Bitter substances,0,0,1,0,0.2
+Sweet substances,Astringent substances,0,0,1,0,0.2
+Gokshura,Ghee,0,0,1,0,0.2
+Triphala,Bala,0,0,1,0,0.2
+Triphala,Punarnava,0,0,1,0,0.2
+Triphala,Sweet substances,0,0,1,0,0.2
+Triphala,Sour substances,0,0,1,0,0.2
+Triphala,Ghee,0,0,1,0,0.2
+Punarnava,Food,0,0,1,0,0.2
+Danti,Heavy food,0,0,1,0,0.2
+Aguru,Pungent medicinal substances,0,0,1,0,0.2
+Aguru,Bitter medicinal substances,0,0,1,0,0.2
+Aguru,Astringent medicinal substances,0,0,1,0,0.2
+Danti,Arka,0,0,1,0,0.2
+Danti,Sour medicinal substances,0,0,1,0,0.2
+Danti,Salty medicinal substances,0,0,1,0,0.2
+Danti,Pungent medicinal substances,0,0,1,0,0.2
+Sweet medicinal substances,Vidanga,0,0,1,0,0.2
+Sweet vipaka substances,Astringent substances,0,0,1,0,0.2
+Sweet medicinal substances,Punarnava,0,0,1,0,0.2
+Arka,Astringent medicinal substances,0,0,1,0,0.2
+Arka,Sweet vipaka substances,0,0,1,0,0.2
+Arka,Musta,0,0,1,0,0.2
+Arka,Neem,0,0,1,0,0.2
+Arka,Vidanga,0,0,1,0,0.2
+Arka,Triphala,0,0,1,0,0.2
+Arka,Punarnava,0,0,1,0,0.2
+Aguru,Pungent substances,0,0,1,0,0.2
+Aguru,Bitter substances,0,0,1,0,0.2
+Sweet medicinal substances,Bala,0,0,1,0,0.2
+Citraka,Musta,0,0,1,0,0.2
+Citraka,Neem,0,0,1,0,0.2
+Citraka,Vidanga,0,0,1,0,0.2
+Citraka,Triphala,0,0,1,0,0.2
+Citraka,Punarnava,0,0,1,0,0.2
+Sour medicinal substances,Bitter substances,0,0,1,0,0.2
+Sour medicinal substances,Astringent substances,0,0,1,0,0.2
+Sour medicinal substances,Milk,0,0,1,0,0.2
+Salty medicinal substances,Pungent vipaka substances,0,0,1,0,0.2
+Salty medicinal substances,Sour vipaka substances,0,0,1,0,0.2
+Danti,Food,0,0,1,0,0.2
+Sweet medicinal substances,Sour substances,0,0,1,0,0.2
+Sweet medicinal substances,Food,0,0,1,0,0.2
+Sweet medicinal substances,Heavy food,0,0,1,0,0.2
+Sour medicinal substances,Salty medicinal substances,0,0,1,0,0.2
+Sour medicinal substances,Bitter medicinal substances,0,0,1,0,0.2
+Sour medicinal substances,Astringent medicinal substances,0,0,1,0,0.2
+Sour medicinal substances,Sour vipaka substances,0,0,1,0,0.2
+Sweet medicinal substances,Pungent vipaka substances,0,0,1,0,0.2
+Sweet medicinal substances,Sour vipaka substances,0,0,1,0,0.2
+Danti,Milk,0,0,1,0,0.2
+Salty medicinal substances,Musta,0,0,1,0,0.2
+Aguru,Punarnava,0,0,1,0,0.2
+Aguru,Sweet substances,0,0,1,0,0.2
+Amalaki,Astringent substances,0,0,1,0,0.2
+Amalaki,Milk,0,0,1,0,0.2
+Haritaki,Bitter substances,0,0,1,0,0.2
+Haritaki,Warm water,0,0,1,0,0.2
+Haritaki,Ghee,0,0,1,0,0.2
+Haritaki,Milk,0,0,1,0,0.2
+Pippali,Guduchi,0,0,1,0,0.2
+Pungent substances,Ghee,0,0,1,0,0.2
+Aguru,Astringent substances,0,0,1,0,0.2
+Pungent substances,Food,0,0,1,0,0.2
+Pungent substances,Heavy food,0,0,1,0,0.2
+Sour substances,Bitter substances,0,0,1,0,0.2
+Sour substances,Astringent substances,0,0,1,0,0.2
+Sour substances,Milk,0,0,1,0,0.2
+Salty substances,Pungent substances,0,0,1,0,0.2
+Salty substances,Warm water,0,0,1,0,0.2
+Amalaki,Sour medicinal substances,0,0,1,0,0.2
+Amalaki,Sweet medicinal substances,0,0,1,0,0.2
+Amalaki,Danti,0,0,1,0,0.2
+Pungent substances,Milk,0,0,1,0,0.2
+Aguru,Warm water,0,0,1,0,0.2
+Aguru,Food,0,0,1,0,0.2
+Aguru,Heavy food,0,0,1,0,0.2
+Arka,Sweet medicinal substances,0,0,1,0,0.2
+Arka,Pungent medicinal substances,0,0,1,0,0.2
+Danti,Sweet substances,0,0,1,0,0.2
+Danti,Sour substances,0,0,1,0,0.2
+Danti,Salty substances,0,0,1,0,0.2
+Danti,Pungent substances,0,0,1,0,0.2
+Danti,Warm water,0,0,1,0,0.2
+Aguru,Triphala,0,0,1,0,0.2
+Arka,Pungent substances,0,0,1,0,0.2
+Arka,Astringent substances,0,0,1,0,0.2
+Arka,Warm water,0,0,1,0,0.2
+Arka,Food,0,0,1,0,0.2
+Arka,Heavy food,0,0,1,0,0.2
+Sweet medicinal substances,Sour medicinal substances,0,0,1,0,0.2
+Aguru,Sweet vipaka substances,0,0,1,0,0.2
+Aguru,Musta,0,0,1,0,0.2
+Aguru,Neem,0,0,1,0,0.2
+Aguru,Vidanga,0,0,1,0,0.2
+Arka,Sweet substances,0,0,1,0,0.2
+Guduchi,Heavy food,0,0,1,0,0.2
+Citraka,Danti,0,0,1,0,0.2
+Citraka,Aguru,0,0,1,0,0.2
+Citraka,Arka,0,0,1,0,0.2
+Citraka,Sweet medicinal substances,0,0,1,0,0.2
+Citraka,Pungent medicinal substances,0,0,1,0,0.2
+Citraka,Bitter medicinal substances,0,0,1,0,0.2
+Guduchi,Sour medicinal substances,0,0,1,0,0.2
+Guduchi,Salty medicinal substances,0,0,1,0,0.2
+Guduchi,Sweet vipaka substances,0,0,1,0,0.2
+Citraka,Sweet vipaka substances,0,0,1,0,0.2
+Bitter medicinal substances,Food,0,0,1,0,0.2
+Bitter medicinal substances,Heavy food,0,0,1,0,0.2
+Astringent medicinal substances,Sweet vipaka substances,0,0,1,0,0.2
+Pungent medicinal substances,Ghee,0,0,1,0,0.2
+Pungent medicinal substances,Milk,0,0,1,0,0.2
+Pungent medicinal substances,Food,0,0,1,0,0.2
+Pungent medicinal substances,Heavy food,0,0,1,0,0.2
+Bitter medicinal substances,Sweet vipaka substances,0,0,1,0,0.2
+Bitter medicinal substances,Pungent vipaka substances,0,0,1,0,0.2
+Bitter medicinal substances,Vidanga,0,0,1,0,0.2
+Bitter medicinal substances,Ghee,0,0,1,0,0.2
+Sweet vipaka substances,Bitter substances,0,0,1,0,0.2
+Amalaki,Guduchi,0,0,1,0,0.2
+Sweet vipaka substances,Warm water,0,0,1,0,0.2
+Astringent medicinal substances,Sour vipaka substances,0,0,1,0,0.2
+Astringent medicinal substances,Vidanga,0,0,1,0,0.2
+Astringent medicinal substances,Ashwagandha,0,0,1,0,0.2
+Guduchi,Sour vipaka substances,0,0,1,0,0.2
+Guduchi,Yashtimadhu,0,0,1,0,0.2
+Guduchi,Vidanga,0,0,1,0,0.2
+Guduchi,Gokshura,0,0,1,0,0.2
+Guduchi,Food,0,0,1,0,0.2
+Guduchi,Sweet substances,0,0,1,0,0.2
+Shunthi,Sweet substances,0,0,1,0,0.2
+Astringent medicinal substances,Bala,0,0,1,0,0.2
+Astringent medicinal substances,Punarnava,0,0,1,0,0.2
+Astringent medicinal substances,Sweet substances,0,0,1,0,0.2
+Astringent medicinal substances,Sour substances,0,0,1,0,0.2
+Bitter medicinal substances,Bala,0,0,1,0,0.2
+Bitter medicinal substances,Punarnava,0,0,1,0,0.2
+Bitter medicinal substances,Sweet substances,0,0,1,0,0.2
+Guduchi,Milk,0,0,1,0,0.2
+Guduchi,Punarnava,0,0,1,0,0.2
+Pungent medicinal substances,Salty substances,0,0,1,0,0.2
+Salty medicinal substances,Neem,0,0,1,0,0.2
+Salty medicinal substances,Ashwagandha,0,0,1,0,0.2
+Salty medicinal substances,Bala,0,0,1,0,0.2
+Salty medicinal substances,Sour substances,0,0,1,0,0.2
+Salty medicinal substances,Pungent substances,0,0,1,0,0.2
+Salty medicinal substances,Warm water,0,0,1,0,0.2
+Salty medicinal substances,Ghee,0,0,1,0,0.2
+Sour medicinal substances,Musta,0,0,1,0,0.2
+Sour medicinal substances,Yashtimadhu,0,0,1,0,0.2
+Bitter medicinal substances,Ashwagandha,0,0,1,0,0.2
+Sour medicinal substances,Gokshura,0,0,1,0,0.2
+Sour medicinal substances,Triphala,0,0,1,0,0.2
+Sour medicinal substances,Salty substances,0,0,1,0,0.2
+Danti,Sweet vipaka substances,0,0,1,0,0.2
+Danti,Sour vipaka substances,0,0,1,0,0.2
+Danti,Yashtimadhu,0,0,1,0,0.2
+Danti,Vidanga,0,0,1,0,0.2
+Danti,Gokshura,0,0,1,0,0.2
+Danti,Punarnava,0,0,1,0,0.2
+Citraka,Astringent medicinal substances,0,0,1,0,0.2
+Sour medicinal substances,Neem,0,0,1,0,0.2
+Pungent medicinal substances,Sweet vipaka substances,0,0,1,0,0.2
+Pungent medicinal substances,Pungent vipaka substances,0,0,1,0,0.2
+Pungent medicinal substances,Musta,0,0,1,0,0.2
+Pungent medicinal substances,Yashtimadhu,0,0,1,0,0.2
+Pungent medicinal substances,Neem,0,0,1,0,0.2
+Pungent medicinal substances,Vidanga,0,0,1,0,0.2
+Pungent medicinal substances,Ashwagandha,0,0,1,0,0.2
+Citraka,Sweet substances,0,0,1,0,0.2
+Citraka,Pungent substances,0,0,1,0,0.2
+Citraka,Bitter substances,0,0,1,0,0.2
+Pungent medicinal substances,Sweet substances,0,0,1,0,0.2
+Citraka,Warm water,0,0,1,0,0.2
+Citraka,Food,0,0,1,0,0.2
+Citraka,Heavy food,0,0,1,0,0.2
+Danti,Aguru,0,0,1,0,0.2
+Guduchi,Sour substances,0,0,1,0,0.2
+Guduchi,Salty substances,0,0,1,0,0.2
+Guduchi,Warm water,0,0,1,0,0.2
+Pungent medicinal substances,Gokshura,0,0,1,0,0.2
+Pungent medicinal substances,Bala,0,0,1,0,0.2
+Pungent medicinal substances,Punarnava,0,0,1,0,0.2
+Citraka,Astringent substances,0,0,1,0,0.2
+Amalaki,Haritaki,0,0,0,1,0.1
