@@ -396,9 +396,10 @@ div[data-baseweb="menu"] li:hover { background: rgba(16,185,129,0.1) !important;
 .herb-card {
     background: linear-gradient(140deg, rgba(17,26,42,0.92), rgba(12,22,16,0.92));
     border: 1px solid rgba(16,185,129,0.18); border-radius: 16px;
-    padding: 1.1rem 1.1rem 1.3rem; position: relative; overflow: hidden;
+    padding: 0.95rem 1rem 1.05rem; position: relative; overflow: hidden;
     transition: border-color 0.25s, box-shadow 0.25s, transform 0.25s;
     min-height: 90px;
+    display: flex; flex-direction: column; gap: 0.45rem;
 }
 .herb-card:hover {
     border-color: rgba(16,185,129,0.48);
@@ -410,14 +411,14 @@ div[data-baseweb="menu"] li:hover { background: rgba(16,185,129,0.1) !important;
     background: linear-gradient(90deg, #10B981, #06B6D4); opacity: 0.45;
 }
 .herb-rank {
-    position: absolute; top: 0.75rem; right: 0.8rem;
+    display: inline-flex; align-self: flex-start;
     background: rgba(16,185,129,0.1); border: 1px solid rgba(16,185,129,0.28);
     color: #10B981 !important; font-size: 0.62rem; font-weight: 700;
     padding: 0.12rem 0.45rem; border-radius: 999px; letter-spacing: 0.04em; white-space: nowrap;
 }
 .herb-nm {
     font-size: 0.97rem; font-weight: 700; color: #F8FAFC !important;
-    margin: 0; line-height: 1.4;
+    margin: 0; line-height: 1.4; padding-right: 0.2rem;
 }
 
 /* Footer */
@@ -449,11 +450,11 @@ with st.sidebar:
         <p>Predicts drug–herb interaction risk using XGBoost & BioBERT, and recommends safer
         Ayurvedic alternatives when risk is High or Medium.</p></div>""", unsafe_allow_html=True)
     
-    st.markdown("""<div class='sb-card'><h4>🧠 Model Information</h4>
+    st.markdown("""<div class='sb-card'><h4>📜 Model Information</h4>
         <p>BioBERT encodes biomedical semantics. XGBoost classifies interactions as
         <b>Low</b>, <b>Medium</b>, or <b>High</b> risk using drug–herb feature pairs.</p></div>""",
         unsafe_allow_html=True)
-    st.markdown("""<div class='sb-card'><h4>💊 Technologies</h4><ul>
+    st.markdown("""<div class='sb-card'><h4>🔬 Technologies</h4><ul>
         <li>BioBERT – Biomedical NLP</li>
         <li>XGBoost – Risk Classifier</li>
         <li>Streamlit – UI Framework</li>
@@ -471,11 +472,11 @@ with st.sidebar:
         <div class='sb-stat'><span>Risk classes</span><span class='sb-val'>3</span></div></div>""",
         unsafe_allow_html=True,
     )
-    st.markdown("""<div class='sb-card'><h4>🔬 About Charaka Samhita</h4>
+    st.markdown("""<div class='sb-card'><h4>📖 About Charaka Samhita</h4>
         <p>Ancient Ayurvedic treatise (~600 BCE) documenting herb properties, doshas,
         therapeutic actions and compound formulations — the knowledge graph backbone
         of this system.</p></div>""", unsafe_allow_html=True)
-    st.markdown("""<div class='sb-card'><h4>👥 Team Members</h4>
+    st.markdown("""<div class='sb-card'><h4>👯‍♀️Team Members</h4>
         <ul>
         <li>YV Bhavana</li>
         <li>KP Preetika Setty</li>
@@ -502,7 +503,7 @@ col1, col2 = st.columns([1, 1.15], gap="large")
 with col1:
     st.markdown("<div class='glass-card'>", unsafe_allow_html=True)
     st.markdown(
-        "<div class='card-title'>💊 Drug &amp; Herb Selection</div>"
+        "<div class='card-title'>💊🌿 Drug &amp; Herb Selection</div>"
         "<div class='card-sub'>Select the drug and herb to analyze their interaction risk</div>",
         unsafe_allow_html=True,
     )
