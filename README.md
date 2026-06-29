@@ -222,7 +222,7 @@ Amalaki
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 - Y V Bhavana
 - K P Preetika Setty
